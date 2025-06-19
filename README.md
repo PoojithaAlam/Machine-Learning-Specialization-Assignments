@@ -63,6 +63,18 @@ This repository contains graded programming assignments completed as part of the
 - Balanced exploration vs exploitation to maximize cumulative reward.
 
 ---
+## 🛠 Tech Stack
+
+- **Programming Language**: Python 3
+- **Libraries**: NumPy, Matplotlib
+- **Development**: Jupyter Notebooks
+- **Concepts Covered**: 
+  - Supervised & Unsupervised Learning
+  - Neural Networks & Backpropagation
+  - Regularization, PCA, K-Means, Q-Learning
+  - Recommender Systems
+  - Model Evaluation & Tuning
+---
 
 ## ✅ Tools Used
 - Python
