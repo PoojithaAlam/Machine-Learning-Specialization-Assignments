@@ -84,5 +84,5 @@ This repository contains graded programming assignments completed as part of the
 
 ---
 
-Feel free to explore the assignment notebooks in each course module folder.
+Feel free to explore the assignment notebooks in each course folder.
 This work represents my personal learning journey through the specialization.
